@@ -2,4 +2,4 @@
 
 Learning terraform -
 
-Repo subject to regular changes!
+Repo learning how to use terraform.
